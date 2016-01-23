@@ -1,0 +1,14 @@
+body{
+	background-color: white;
+}
+#comment,#output{
+	color:black;
+	border:5px solid black;
+}
+#output{
+	width:1000px;
+	height:300px;
+	margin-left:10px;
+}
+
+
